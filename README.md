@@ -12,7 +12,6 @@
 - Bonus: es contabilitzen les fruites agafades. Quan s'agafen totes, apareix un missatge notificant-ho.
 
 ## Enemics
-- Hi ha quatre tipus d'enemics:
   - Estàtics:
     - Punxes al voltant de pareds o terra.
   - Mòvils:
