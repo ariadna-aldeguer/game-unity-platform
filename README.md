@@ -20,4 +20,18 @@
     - Arbre que llança puntxes.
     - Rave que es mou cap a la detra i l'esquerra.
 
+## Captures
+
+### Menu
+![image](https://user-images.githubusercontent.com/71792438/170299357-e7eadba3-0e24-4e5a-8ec8-49bb75371b74.png)
+
+### Game
+![image](https://user-images.githubusercontent.com/71792438/170299426-bb2bfde1-e3d8-4008-bc38-70242eda783d.png)
+
+### Win
+![image](https://user-images.githubusercontent.com/71792438/170299483-fca0c7d3-b42a-4c3f-b52d-77ca996de731.png)
+
+### Game Over
+![image](https://user-images.githubusercontent.com/71792438/170299551-20c2d801-dbea-4451-a973-f4ef6f09c843.png)
+
 
